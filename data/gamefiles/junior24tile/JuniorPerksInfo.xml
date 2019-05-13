@@ -1,0 +1,192 @@
+<?xml version="1.0"?>
+<PerkCards>
+    <card>
+        <type>chance</type>
+        <text>Advance to Go (Collect $200)</text>
+        <action>MovePerkCard</action>
+        <changeFund>0</changeFund>
+        <move>0</move>
+    </card>
+    <card>
+        <type>chance</type>
+        <text>Bank pays you dividend of $50</text>
+        <action>ChangeFundsPerkCard</action>
+        <changeFund>50</changeFund>
+        <move>0</move>
+    </card>
+    <card>
+        <type>chance</type>
+        <text>Get Out of Jail Free</text>
+        <action>JailPerkCard</action>
+        <changeFund>0</changeFund>
+        <move>0</move>
+    </card>
+    <card>
+        <type>chance</type>
+        <text>Go Back 3 Spaces</text>
+        <action>MoveSpacePerkCard</action>
+        <changeFund>0</changeFund>
+        <move>-3</move>
+    </card>
+    <card>
+        <type>chance</type>
+        <text>Go to Jail–Go directly to Jail–Do not pass Go, do not collect $200</text>
+        <action>MoveJailPerkCard</action>
+        <changeFund>0</changeFund>
+        <move>0</move>
+    </card>
+    <card>
+        <type>chance</type>
+        <text>Pay poor tax of $15</text>
+        <action>ChangeFundsPerkCard</action>
+        <changeFund>-15</changeFund>
+        <move>0</move>
+    </card>
+    <card>
+        <type>chance</type>
+        <text>Take a walk on the Boardwalk–Advance token to Boardwalk</text>
+        <action>MovePerkCard</action>
+        <changeFund>0</changeFund>
+        <move>39</move>
+    </card>
+    <card>
+        <type>chance</type>
+        <text>You have been elected Chairman of the Board–Pay each player $50</text>
+        <action>PayToPlayersPerkCard</action>
+        <changeFund>50</changeFund>
+        <move>0</move>
+    </card>
+    <card>
+        <type>chance</type>
+        <text>Your building and loan matures—Collect $150</text>
+        <action>ChangeFundsPerkCard</action>
+        <changeFund>150</changeFund>
+        <move>0</move>
+    </card>
+    <card>
+        <type>chance</type>
+        <text>You have won a crossword competition—Collect $100</text>
+        <action>ChangeFundsPerkCard</action>
+        <changeFund>100</changeFund>
+        <move>0</move>
+    </card>
+    <card>
+        <type>community</type>
+        <text>Advance to Go (Collect $200)</text>
+        <action>MovePerkCard</action>
+        <changeFund>0</changeFund>
+        <move>0</move>
+    </card>
+    <card>
+        <type>community</type>
+        <text>Bank error in your favor—Collect $200</text>
+        <action>ChangeFundsPerkCard</action>
+        <changeFund>200</changeFund>
+        <move>0</move>
+    </card>
+    <card>
+        <type>community</type>
+        <text>Doctor's fee—Pay $50</text>
+        <action>ChangeFundsPerkCard</action>
+        <changeFund>-50</changeFund>
+        <move>0</move>
+    </card>
+    <card>
+        <type>community</type>
+        <text>From sale of stock you get $50</text>
+        <action>ChangeFundsPerkCard</action>
+        <changeFund>50</changeFund>
+        <move>0</move>
+    </card>
+    <card>
+        <type>community</type>
+        <text>Get Out of Jail Free</text>
+        <action>JailPerkCard</action>
+        <changeFund>0</changeFund>
+        <move>0</move>
+    </card>
+    <card>
+        <type>community</type>
+        <text>Go to Jail–Go directly to jail–Do not pass Go–Do not collect $200</text>
+        <action>MoveJailPerkCard</action>
+        <changeFund>0</changeFund>
+        <move>10</move>
+    </card>
+    <card>
+        <type>community</type>
+        <text>Grand Opera Night—Collect $50 from every player for opening night seats</text>
+        <action>GetFromPlayersPerkCard</action>
+        <changeFund>50</changeFund>
+        <move>0</move>
+    </card>
+    <card>
+        <type>community</type>
+        <text>Holiday Fund matures—Receive $100</text>
+        <action>ChangeFundsPerkCard</action>
+        <changeFund>100</changeFund>
+        <move>0</move>
+    </card>
+    <card>
+        <type>community</type>
+        <text>Income tax refund–Collect $20</text>
+        <action>ChangeFundsPerkCard</action>
+        <changeFund>20</changeFund>
+        <move>0</move>
+    </card>
+    <card>
+        <type>community</type>
+        <text>It is your birthday—Collect $10</text>
+        <action>ChangeFundsPerkCard</action>
+        <changeFund>10</changeFund>
+        <move>0</move>
+    </card>
+    <card>
+        <type>community</type>
+        <text>Life insurance matures–Collect $100</text>
+        <action>ChangeFundsPerkCard</action>
+        <changeFund>100</changeFund>
+        <move>0</move>
+    </card>
+    <card>
+        <type>community</type>
+        <text>Pay hospital fees of $100</text>
+        <action>ChangeFundsPerkCard</action>
+        <changeFund>-100</changeFund>
+        <move>0</move>
+    </card>
+    <card>
+        <type>community</type>
+        <text>Pay school fees of $150</text>
+        <action>ChangeFundsPerkCard</action>
+        <changeFund>-150</changeFund>
+        <move>0</move>
+    </card>
+    <card>
+        <type>community</type>
+        <text>Receive $25 consultancy fee</text>
+        <action>ChangeFundsPerkCard</action>
+        <changeFund>25</changeFund>
+        <move>0</move>
+    </card>
+    <card>
+        <type>community</type>
+        <text>You are assessed for street repairs–$40 per house–$115 per hotel</text>
+        <action>PropertyNumPerkCard</action>
+        <changeFund>0</changeFund>
+        <move>0</move>
+    </card>
+    <card>
+        <type>community</type>
+        <text>You have won second prize in a beauty contest–Collect $10</text>
+        <action>ChangeFundsPerkCard</action>
+        <changeFund>10</changeFund>
+        <move>0</move>
+    </card>
+    <card>
+        <type>community</type>
+        <text>You inherit $100</text>
+        <action>ChangeFundsPerkCard</action>
+        <changeFund>100</changeFund>
+        <move>0</move>
+    </card>
+</PerkCards>

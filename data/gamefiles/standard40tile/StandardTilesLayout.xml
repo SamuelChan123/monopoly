@@ -1,0 +1,127 @@
+<?xml version="1.0"?>
+
+<MonopolyLayout>
+    <LayoutType>Standard 40 Tile Layout</LayoutType>
+    <Format>Format: (tilenum,type,text,propertygroup,groupnum,image)</Format>
+    <tile>
+        0,GoTile,Go,0,200,go.png,Go Ahead
+    </tile>
+    <tile>
+        1,RealEstateTile,Mediterranean Avenue,1,1,
+    </tile>
+    <tile>
+        2,CommunityPerkTile,Community Chest,0,0,communityChest.png
+    </tile>
+    <tile>
+        3,RealEstateTile,Baltic Avenue,1,2,
+    </tile>
+    <tile>
+        4,TaxTile,Income Tax,11,200,money.png
+    </tile>
+    <tile>
+        5,RailroadTile,Reading Railroad,9,1,railroad.png
+    </tile>
+    <tile>
+        6,RealEstateTile,Oriental Avenue,2,1,
+    </tile>
+    <tile>
+        7,ChancePerkTile,Chance,0,0,chanceTile.png
+    </tile>
+    <tile>
+        8,RealEstateTile,Vermont Avenue,2,2,
+    </tile>
+    <tile>
+        9,RealEstateTile,Connecticut Avenue,2,3,
+    </tile>
+    <tile>
+        10,JailTile,Jail,0,0,jail.png,This is Jail
+    </tile>
+    <tile>
+        11,RealEstateTile,St.Charles Place,3,1,
+    </tile>
+    <tile>
+        12,UtilityTile,Electric Company,10,1,lightbulb.png
+    </tile>
+    <tile>
+        13,RealEstateTile,States Avenue,3,2,
+    </tile>
+    <tile>
+        14,RealEstateTile,Virginia Avenue,3,3,
+    </tile>
+    <tile>
+        15,RailroadTile,Pennsylvania Railroad,9,2,railroad.png
+    </tile>
+    <tile>
+        16,RealEstateTile,St.James Place,4,1,
+    </tile>
+    <tile>
+        17,CommunityPerkTile,Community Chest,0,0,communityChest.png
+    </tile>
+    <tile>
+        18,RealEstateTile,Tennessee Avenue,4,2,
+    </tile>
+    <tile>
+        19,RealEstateTile,New York Avenue,4,3,
+    </tile>
+    <tile>
+        20,FreeParkTile,Free Parking,0,0,freeparking.png,Free Parking
+    </tile>
+    <tile>
+        21,RealEstateTile,Kentucky Avenue,5,1,
+    </tile>
+    <tile>
+        22,ChancePerkTile,Chance,0,0,chanceTile.png
+    </tile>
+    <tile>
+        23,RealEstateTile,Indiana Avenue,5,2,
+    </tile>
+    <tile>
+        24,RealEstateTile,Illinois Avenue,5,3,
+    </tile>
+    <tile>
+        25,RailroadTile,B. and O. Railroad,9,3,railroad.png
+    </tile>
+    <tile>
+        26,RealEstateTile,Atlantic Avenue,6,1,
+    </tile>
+    <tile>
+        27,RealEstateTile,Ventnor Avenue,6,2,
+    </tile>
+    <tile>
+        28,UtilityTile,Water Works,10,2,waterworks.png
+    </tile>
+    <tile>
+        29,RealEstateTile,Marvin Gardens,6,3,
+    </tile>
+    <tile>
+        30,GoToJailTile,Go to Jail,0,0,handcuff.png,Go To Jail
+    </tile>
+    <tile>
+        31,RealEstateTile,Pacific Avenue,7,1,
+    </tile>
+    <tile>
+        32,RealEstateTile,North Carolina Avenue,7,2,
+    </tile>
+    <tile>
+        33,CommunityPerkTile,Community Chest,0,0,communityChest.png
+    </tile>
+    <tile>
+        34,RealEstateTile,Pennsylvania Avenue,7,3,
+    </tile>
+    <tile>
+        35,RailroadTile,Short Line,9,4,railroad.png
+    </tile>
+    <tile>
+        36,ChancePerkTile,Chance,0,0,chanceTile.png
+    </tile>
+    <tile>
+        37,RealEstateTile,Park Place,8,1,
+    </tile>
+    <tile>
+        38,TaxTile,Luxury Tax,11,100,money.png
+    </tile>
+    <tile>
+        39,RealEstateTile,Boardwalk,8,2,
+    </tile>
+</MonopolyLayout>
+

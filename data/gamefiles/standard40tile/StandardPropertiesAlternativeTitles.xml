@@ -1,0 +1,128 @@
+<?xml version = "1.0"?>
+<class>
+    <RealEstate group = "1" totalgroups = "2">
+
+        <groupnum num = "1">
+            <title>Motor Drive</title>
+        </groupnum>
+        <groupnum num = "2">
+            <title>Baltic Avenue</title>
+        </groupnum>
+    </RealEstate>
+
+    <RealEstate group = "2" totalgroups = "3">
+        <groupnum num = "1">
+            <title>Oriental Avenue</title>
+        </groupnum>
+        <groupnum num = "2">
+            <title>Vermont Avenue</title>
+        </groupnum>
+        <groupnum num = "3">
+            <title>Connecticut Avenue</title>
+        </groupnum>
+    </RealEstate>
+
+    <RealEstate group = "3" totalgroups = "3">
+        <groupnum num = "1">
+            <title>St. Charles Place</title>
+        </groupnum>
+        <groupnum num = "2">
+            <title>States Avenue</title>
+        </groupnum>
+        <groupnum num = "3">
+            <title>Virginia Avenue</title>
+        </groupnum>
+
+    </RealEstate>
+
+    <RealEstate group = "4" totalgroups = "3">
+        <groupnum num = "1">
+            <title>St. James Place</title>
+        </groupnum>
+        <groupnum num = "2">
+            <title>Tennessee Avenue</title>
+        </groupnum>
+        <groupnum num = "3">
+            <title>New York Avenue</title>
+        </groupnum>
+    </RealEstate>
+
+    <RealEstate group = "5" totalgroups = "3">
+        <groupnum num = "1">
+            <title>Kentucky Avenue</title>
+        </groupnum>
+        <groupnum num = "2">
+            <title>Indiana Avenue</title>
+        </groupnum>
+        <groupnum num = "3">
+            <title>Illinois Avenue</title>
+        </groupnum>
+    </RealEstate>
+
+    <RealEstate group = "6" totalgroups = "3">
+        <groupnum num = "1">
+            <title>Atlantic Avenue</title>
+        </groupnum>
+        <groupnum num = "2">
+            <title>Ventnor Avenue</title>
+        </groupnum>
+        <groupnum num = "3">
+            <title>Marvin Gardens</title>
+        </groupnum>
+    </RealEstate>
+
+    <RealEstate group = "7" totalgroups = "3">
+        <groupnum num = "1">
+            <title>Pacific Avenue</title>
+        </groupnum>
+        <groupnum num = "2">
+            <title>North Carolina Avenue</title>
+        </groupnum>
+        <groupnum num = "3">
+            <title>Pennsylvania Gardens</title>
+        </groupnum>
+    </RealEstate>
+
+    <RealEstate group = "8" totalgroups = "2">
+        <groupnum num = "1">
+            <title>West Union</title>
+        </groupnum>
+        <groupnum num = "2">
+            <title>Blue Devil Tower</title>
+        </groupnum>
+    </RealEstate>
+
+    <Railroad group = "9" totalgroups = "4">
+        <groupnum num= "1">
+            <title>Reading Railroad</title>
+        </groupnum>
+        <groupnum num = "2">
+            <title>Pennsylvania Railroad</title>
+        </groupnum>
+        <groupnum num = "3">
+            <title>B. &amp; O. Railroad</title>
+        </groupnum>
+        <groupnum num = "4">
+            <title>Short Line</title>
+        </groupnum>
+    </Railroad>
+
+    <Utilities group = "10" totalgroups = "2">
+        <groupnum num = "1">
+            <title>Electric Company</title>
+        </groupnum>
+        <groupnum num = "2">
+            <title>Water Works</title>
+        </groupnum>
+    </Utilities>
+
+    <tax group = "11">
+        <groupnum num = "1">
+            <title>Income Tax</title>
+        </groupnum>
+        <groupnum num = "2">
+            <title>Luxury Tax</title>
+        </groupnum>
+    </tax>
+
+</class>

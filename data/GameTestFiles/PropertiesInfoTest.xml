@@ -1,0 +1,107 @@
+<?xml version = "1.0"?>
+<class>
+    <propertygroup group = "1" totalgroups = "2">
+
+        <groupnum num = "1">
+            <title>Mediterranean Avenue</title>
+            <rent>2</rent>
+            <rent1house>10</rent1house>
+            <rent2house>30</rent2house>
+            <rent3house>90</rent3house>
+            <rent4house>160</rent4house>
+            <rent1hotel>250</rent1hotel>
+            <price>60</price>
+            <mortgage>30</mortgage>
+            <buildingcost>50</buildingcost>
+        </groupnum>
+        <groupnum num = "2">
+            <title>Baltic Avenue</title>
+            <rent>4</rent>
+            <rent1house>20</rent1house>
+            <rent2house>60</rent2house>
+            <rent3house>180</rent3house>
+            <rent4house>320</rent4house>
+            <rent1hotel>450</rent1hotel>
+            <price>60</price>
+            <mortgage>30</mortgage>
+            <buildingcost>50</buildingcost>
+        </groupnum>
+    </propertygroup>
+
+    <propertygroup group = "2" totalgroups = "3">
+        <groupnum num = "1">
+            <title>Oriental Avenue</title>
+            <rent>6</rent>
+            <rent1house>30</rent1house>
+            <rent2house>90</rent2house>
+            <rent3house>270</rent3house>
+            <rent4house>400</rent4house>
+            <rent1hotel>550</rent1hotel>
+            <price>100</price>
+            <mortgage>50</mortgage>
+            <buildingcost>50</buildingcost>
+        </groupnum>
+        <groupnum num = "2">
+            <title>Vermont Avenue</title>
+            <rent>6</rent>
+            <rent1house>30</rent1house>
+            <rent2house>90</rent2house>
+            <rent3house>270</rent3house>
+            <rent4house>400</rent4house>
+            <rent1hotel>550</rent1hotel>
+            <price>100</price>
+            <mortgage>50</mortgage>
+            <buildingcost>50</buildingcost>
+        </groupnum>
+        <groupnum num = "3">
+            <title>Connecticut Avenue</title>
+            <rent>8</rent>
+            <rent1house>40</rent1house>
+            <rent2house>100</rent2house>
+            <rent3house>300</rent3house>
+            <rent4house>450</rent4house>
+            <rent1hotel>600</rent1hotel>
+            <price>120</price>
+            <mortgage>60</mortgage>
+            <buildingcost>50</buildingcost>
+        </groupnum>
+    </propertygroup>
+
+    <railroad group = "9" totalgroups = "4">
+        <groupnum num = "1">
+            <title>Reading Railroad</title>
+            <price>200</price>
+            <rent1owned>25</rent1owned>
+            <rent2owned>50</rent2owned>
+            <rent3owned>100</rent3owned>
+            <rent4owned>200</rent4owned>
+            <mortgage>100</mortgage>
+        </groupnum>
+        <groupnum num = "2">
+            <title>Pennsylvania Railroad</title>
+            <price>200</price>
+            <rent1owned>25</rent1owned>
+            <rent2owned>50</rent2owned>
+            <rent3owned>100</rent3owned>
+            <rent4owned>200</rent4owned>
+            <mortgage>100</mortgage>
+        </groupnum>
+    </railroad>
+
+    <utilities group = "10" totalgroups = "2">
+        <groupnum num = "1">
+            <title>Electric Company</title>
+            <price>150</price>
+            <mortgage>75</mortgage>
+            <rent1owned>4</rent1owned>
+            <rent2owned>10</rent2owned>
+        </groupnum>
+        <groupnum num = "2">
+            <title>Water Works</title>
+            <price>150</price>
+            <mortgage>75</mortgage>
+            <rent1owned>4</rent1owned>
+            <rent2owned>10</rent2owned>
+        </groupnum>
+    </utilities>
+</class>

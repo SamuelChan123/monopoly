@@ -1,0 +1,39 @@
+<?xml version="1.0"?>
+
+<PerkCards>
+<card>
+    <type>chance</type>
+    <text>Advance to Go (Collect $200)</text>
+    <action>MovePerkCard</action>
+    <changeFund>0</changeFund>
+    <move>0</move>
+</card>
+<card>
+    <type>chance</type>
+    <text>Advance to Illinois Ave—If you pass Go, collect $200</text>
+    <action>MovePerkCard</action>
+    <changeFund>0</changeFund>
+    <move>24</move>
+</card>
+<card>
+    <type>chance</type>
+    <text>Advance to St. Charles Place – If you pass Go, collect $200</text>
+    <action>MovePerkCard</action>
+    <changeFund>0</changeFund>
+    <move>11</move>
+</card>
+<card>
+    <type>chance</type>
+    <text>Advance token to nearest Utility. If unowned, you may buy it from the Bank. If owned, throw dice and pay owner a total ten times the amount thrown.</text>
+    <action>NearUtilityTilesPerkCard</action>
+    <changeFund>10</changeFund>
+    <move>0</move>
+</card>
+<card>
+    <type>chance</type>
+    <text>Advance token to the nearest Railroad and pay owner twice the rental to which he/she {he} is otherwise entitled. If Railroad is unowned, you may buy it from the Bank.</text>
+    <action>NearRailTilesPerkCard</action>
+    <changeFund>2</changeFund>
+    <move>0</move>
+</card>
+</PerkCards>

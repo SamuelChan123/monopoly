@@ -1,0 +1,292 @@
+<?xml version = "1.0"?>
+<class>
+    <RealEstate group = "1" totalgroups = "2">
+
+        <groupnum num = "1">
+            <title>Motor Drive</title>
+            <rent>2</rent>
+            <rent1house>10</rent1house>
+            <rent2house>30</rent2house>
+            <rent3house>90</rent3house>
+            <rent4house>160</rent4house>
+            <rent1hotel>250</rent1hotel>
+            <price>5000</price>
+            <mortgage>30</mortgage>
+            <buildingcost>50</buildingcost>
+        </groupnum>
+        <groupnum num = "2">
+            <title>Gadget Wharf</title>
+            <rent>4</rent>
+            <rent1house>20</rent1house>
+            <rent2house>60</rent2house>
+            <rent3house>180</rent3house>
+            <rent4house>320</rent4house>
+            <rent1hotel>450</rent1hotel>
+            <price>5000</price>
+            <mortgage>30</mortgage>
+            <buildingcost>50</buildingcost>
+        </groupnum>
+    </RealEstate>
+
+    <RealEstate group = "2" totalgroups = "3">
+        <groupnum num = "1">
+            <title>Surfer's Cove</title>
+            <rent>6</rent>
+            <rent1house>30</rent1house>
+            <rent2house>90</rent2house>
+            <rent3house>270</rent3house>
+            <rent4house>400</rent4house>
+            <rent1hotel>550</rent1hotel>
+            <price>15000</price>
+            <mortgage>50</mortgage>
+            <buildingcost>50</buildingcost>
+        </groupnum>
+        <groupnum num = "2">
+            <title>Aqua Park Resort</title>
+            <rent>6</rent>
+            <rent1house>30</rent1house>
+            <rent2house>90</rent2house>
+            <rent3house>270</rent3house>
+            <rent4house>400</rent4house>
+            <rent1hotel>550</rent1hotel>
+            <price>15000</price>
+            <mortgage>50</mortgage>
+            <buildingcost>50</buildingcost>
+        </groupnum>
+        <groupnum num = "3">
+            <title>Lakeside Marina</title>
+            <rent>8</rent>
+            <rent1house>40</rent1house>
+            <rent2house>100</rent2house>
+            <rent3house>300</rent3house>
+            <rent4house>450</rent4house>
+            <rent1hotel>600</rent1hotel>
+            <price>20000</price>
+            <mortgage>60</mortgage>
+            <buildingcost>50</buildingcost>
+        </groupnum>
+    </RealEstate>
+
+    <RealEstate group = "3" totalgroups = "3">
+        <groupnum num = "1">
+            <title>Castle View</title>
+            <rent>10</rent>
+            <rent1house>50</rent1house>
+            <rent2house>150</rent2house>
+            <rent3house>450</rent3house>
+            <rent4house>625</rent4house>
+            <rent1hotel>750</rent1hotel>
+            <price>35000</price>
+            <mortgage>70</mortgage>
+            <buildingcost>100</buildingcost>
+        </groupnum>
+        <groupnum num = "2">
+            <title>Dream Avenue</title>
+            <rent>10</rent>
+            <rent1house>50</rent1house>
+            <rent2house>150</rent2house>
+            <rent3house>450</rent3house>
+            <rent4house>625</rent4house>
+            <rent1hotel>750</rent1hotel>
+            <price>35000</price>
+            <mortgage>70</mortgage>
+            <buildingcost>100</buildingcost>
+        </groupnum>
+        <groupnum num = "3">
+            <title>Palace Gardens</title>
+            <rent>12</rent>
+            <rent1house>60</rent1house>
+            <rent2house>180</rent2house>
+            <rent3house>500</rent3house>
+            <rent4house>700</rent4house>
+            <rent1hotel>900</rent1hotel>
+            <price>40000</price>
+            <mortgage>80</mortgage>
+            <buildingcost>100</buildingcost>
+        </groupnum>
+
+    </RealEstate>
+
+    <RealEstate group = "4" totalgroups = "3">
+        <groupnum num = "1">
+            <title>Adventure Park</title>
+            <rent>14</rent>
+            <rent1house>70</rent1house>
+            <rent2house>200</rent2house>
+            <rent3house>550</rent3house>
+            <rent4house>750</rent4house>
+            <rent1hotel>950</rent1hotel>
+            <price>55000</price>
+            <mortgage>90</mortgage>
+            <buildingcost>100</buildingcost>
+        </groupnum>
+        <groupnum num = "2">
+            <title>Themepark City</title>
+            <rent>14</rent>
+            <rent1house>70</rent1house>
+            <rent2house>200</rent2house>
+            <rent3house>550</rent3house>
+            <rent4house>750</rent4house>
+            <rent1hotel>950</rent1hotel>
+            <price>55000</price>
+            <mortgage>90</mortgage>
+            <buildingcost>100</buildingcost>
+        </groupnum>
+        <groupnum num = "3">
+            <title>Movie District</title>
+            <rent>16</rent>
+            <rent1house>80</rent1house>
+            <rent2house>220</rent2house>
+            <rent3house>600</rent3house>
+            <rent4house>800</rent4house>
+            <rent1hotel>1000</rent1hotel>
+            <price>60000</price>
+            <mortgage>100</mortgage>
+            <buildingcost>100</buildingcost>
+        </groupnum>
+    </RealEstate>
+
+    <RealEstate group = "5" totalgroups = "3">
+        <groupnum num = "1">
+            <title>Style Squaree</title>
+            <rent>18</rent>
+            <rent1house>90</rent1house>
+            <rent2house>250</rent2house>
+            <rent3house>700</rent3house>
+            <rent4house>875</rent4house>
+            <rent1hotel>1050</rent1hotel>
+            <price>80000</price>
+            <mortgage>110</mortgage>
+            <buildingcost>150</buildingcost>
+        </groupnum>
+        <groupnum num = "2">
+            <title>Party Plaza</title>
+            <rent>18</rent>
+            <rent1house>90</rent1house>
+            <rent2house>250</rent2house>
+            <rent3house>700</rent3house>
+            <rent4house>875</rent4house>
+            <rent1hotel>1050</rent1hotel>
+            <price>80000</price>
+            <mortgage>110</mortgage>
+            <buildingcost>150</buildingcost>
+        </groupnum>
+        <groupnum num = "3">
+            <title>Showtime Boulevard</title>
+            <rent>20</rent>
+            <rent1house>100</rent1house>
+            <rent2house>300</rent2house>
+            <rent3house>750</rent3house>
+            <rent4house>925</rent4house>
+            <rent1hotel>1100</rent1hotel>
+            <price>90000</price>
+            <mortgage>120</mortgage>
+            <buildingcost>150</buildingcost>
+        </groupnum>
+    </RealEstate>
+
+    <RealEstate group = "6" totalgroups = "3">
+        <groupnum num = "1">
+            <title>Sunshine Bay</title>
+            <rent>22</rent>
+            <rent1house>110</rent1house>
+            <rent2house>330</rent2house>
+            <rent3house>800</rent3house>
+            <rent4house>975</rent4house>
+            <rent1hotel>1150</rent1hotel>
+            <price>115000</price>
+            <mortgage>130</mortgage>
+            <buildingcost>150</buildingcost>
+        </groupnum>
+        <groupnum num = "2">
+            <title>Bling Beach</title>
+            <rent>22</rent>
+            <rent1house>110</rent1house>
+            <rent2house>330</rent2house>
+            <rent3house>800</rent3house>
+            <rent4house>975</rent4house>
+            <rent1hotel>1150</rent1hotel>
+            <price>115000</price>
+            <mortgage>130</mortgage>
+            <buildingcost>150</buildingcost>
+        </groupnum>
+        <groupnum num = "3">
+            <title>Yacht Harbor</title>
+            <rent>24</rent>
+            <rent1house>120</rent1house>
+            <rent2house>360</rent2house>
+            <rent3house>850</rent3house>
+            <rent4house>1025</rent4house>
+            <rent1hotel>1200</rent1hotel>
+            <price>120000</price>
+            <mortgage>140</mortgage>
+            <buildingcost>150</buildingcost>
+        </groupnum>
+    </RealEstate>
+
+    <RealEstate group = "7" totalgroups = "3">
+        <groupnum num = "1">
+            <title>Treetop Retreat</title>
+            <rent>26</rent>
+            <rent1house>130</rent1house>
+            <rent2house>390</rent2house>
+            <rent3house>900</rent3house>
+            <rent4house>1100</rent4house>
+            <rent1hotel>1275</rent1hotel>
+            <price>145000</price>
+            <mortgage>150</mortgage>
+            <buildingcost>200</buildingcost>
+        </groupnum>
+        <groupnum num = "2">
+            <title>Ski Mountain</title>
+            <rent>26</rent>
+            <rent1house>130</rent1house>
+            <rent2house>390</rent2house>
+            <rent3house>900</rent3house>
+            <rent4house>1100</rent4house>
+            <rent1hotel>1275</rent1hotel>
+            <price>145000</price>
+            <mortgage>150</mortgage>
+            <buildingcost>200</buildingcost>
+        </groupnum>
+        <groupnum num = "3">
+            <title>Diamond Hills</title>
+            <rent>28</rent>
+            <rent1house>150</rent1house>
+            <rent2house>450</rent2house>
+            <rent3house>1000</rent3house>
+            <rent4house>1200</rent4house>
+            <rent1hotel>1400</rent1hotel>
+            <price>150000</price>
+            <mortgage>160</mortgage>
+            <buildingcost>200</buildingcost>
+        </groupnum>
+    </RealEstate>
+
+    <RealEstate group = "8" totalgroups = "2">
+        <groupnum num = "1">
+            <title>Fortune Valley</title>
+            <rent>35</rent>
+            <rent1house>175</rent1house>
+            <rent2house>500</rent2house>
+            <rent3house>1100</rent3house>
+            <rent4house>1300</rent4house>
+            <rent1hotel>1500</rent1hotel>
+            <price>170000</price>
+            <mortgage>175</mortgage>
+            <buildingcost>200</buildingcost>
+        </groupnum>
+        <groupnum num = "2">
+            <title>Paradise Island</title>
+            <rent>50</rent>
+            <rent1house>200</rent1house>
+            <rent2house>600</rent2house>
+            <rent3house>1400</rent3house>
+            <rent4house>1700</rent4house>
+            <rent1hotel>2000</rent1hotel>
+            <price>200000</price>
+            <mortgage>200</mortgage>
+            <buildingcost>200</buildingcost>
+        </groupnum>
+    </RealEstate>
+</class>

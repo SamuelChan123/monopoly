@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+
+<MonopolyLayout>
+    <tile>
+        0,GoTile,Go,0,200,go.png,Go Ahead
+    </tile>
+    <tile>
+        1,RealEstateTile,Mediterranean Avenue,1,1,
+    </tile>
+    <tile>
+        2,CommunityPerkTile,Community Chest,0,0,communityChest.png
+    </tile>
+    <tile>
+        3,RealEstateTile,Baltic Avenue,1,2,
+    </tile>
+    <tile>
+        4,TaxTile,Income Tax,0,200,money.png
+    </tile>
+</MonopolyLayout>

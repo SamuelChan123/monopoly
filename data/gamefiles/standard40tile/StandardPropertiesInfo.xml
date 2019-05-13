@@ -1,0 +1,361 @@
+<?xml version = "1.0"?>
+<class>
+    <RealEstate group = "1" totalgroups = "2">
+
+        <groupnum num = "1">
+            <title>Mediterranean Avenue</title>
+            <rent>2</rent>
+            <rent1house>10</rent1house>
+            <rent2house>30</rent2house>
+            <rent3house>90</rent3house>
+            <rent4house>160</rent4house>
+            <rent1hotel>250</rent1hotel>
+            <price>60</price>
+            <mortgage>30</mortgage>
+            <buildingcost>50</buildingcost>
+        </groupnum>
+        <groupnum num = "2">
+            <title>Baltic Avenue</title>
+            <rent>4</rent>
+            <rent1house>20</rent1house>
+            <rent2house>60</rent2house>
+            <rent3house>180</rent3house>
+            <rent4house>320</rent4house>
+            <rent1hotel>450</rent1hotel>
+            <price>60</price>
+            <mortgage>30</mortgage>
+            <buildingcost>50</buildingcost>
+        </groupnum>
+    </RealEstate>
+
+    <RealEstate group = "2" totalgroups = "3">
+        <groupnum num = "1">
+            <title>Oriental Avenue</title>
+            <rent>6</rent>
+            <rent1house>30</rent1house>
+            <rent2house>90</rent2house>
+            <rent3house>270</rent3house>
+            <rent4house>400</rent4house>
+            <rent1hotel>550</rent1hotel>
+            <price>100</price>
+            <mortgage>50</mortgage>
+            <buildingcost>50</buildingcost>
+        </groupnum>
+        <groupnum num = "2">
+            <title>Vermont Avenue</title>
+            <rent>6</rent>
+            <rent1house>30</rent1house>
+            <rent2house>90</rent2house>
+            <rent3house>270</rent3house>
+            <rent4house>400</rent4house>
+            <rent1hotel>550</rent1hotel>
+            <price>100</price>
+            <mortgage>50</mortgage>
+            <buildingcost>50</buildingcost>
+        </groupnum>
+        <groupnum num = "3">
+            <title>Connecticut Avenue</title>
+            <rent>8</rent>
+            <rent1house>40</rent1house>
+            <rent2house>100</rent2house>
+            <rent3house>300</rent3house>
+            <rent4house>450</rent4house>
+            <rent1hotel>600</rent1hotel>
+            <price>120</price>
+            <mortgage>60</mortgage>
+            <buildingcost>50</buildingcost>
+        </groupnum>
+    </RealEstate>
+
+    <RealEstate group = "3" totalgroups = "3">
+        <groupnum num = "1">
+            <title>St. Charles Place</title>
+            <rent>10</rent>
+            <rent1house>50</rent1house>
+            <rent2house>150</rent2house>
+            <rent3house>450</rent3house>
+            <rent4house>625</rent4house>
+            <rent1hotel>750</rent1hotel>
+            <price>140</price>
+            <mortgage>70</mortgage>
+            <buildingcost>100</buildingcost>
+        </groupnum>
+        <groupnum num = "2">
+            <title>States Avenue</title>
+            <rent>10</rent>
+            <rent1house>50</rent1house>
+            <rent2house>150</rent2house>
+            <rent3house>450</rent3house>
+            <rent4house>625</rent4house>
+            <rent1hotel>750</rent1hotel>
+            <price>140</price>
+            <mortgage>70</mortgage>
+            <buildingcost>100</buildingcost>
+        </groupnum>
+        <groupnum num = "3">
+            <title>Virginia Avenue</title>
+            <rent>12</rent>
+            <rent1house>60</rent1house>
+            <rent2house>180</rent2house>
+            <rent3house>500</rent3house>
+            <rent4house>700</rent4house>
+            <rent1hotel>900</rent1hotel>
+            <price>160</price>
+            <mortgage>80</mortgage>
+            <buildingcost>100</buildingcost>
+        </groupnum>
+
+    </RealEstate>
+
+    <RealEstate group = "4" totalgroups = "3">
+        <groupnum num = "1">
+            <title>St. James Place</title>
+            <rent>14</rent>
+            <rent1house>70</rent1house>
+            <rent2house>200</rent2house>
+            <rent3house>550</rent3house>
+            <rent4house>750</rent4house>
+            <rent1hotel>950</rent1hotel>
+            <price>180</price>
+            <mortgage>90</mortgage>
+            <buildingcost>100</buildingcost>
+        </groupnum>
+        <groupnum num = "2">
+            <title>Tennessee Avenue</title>
+            <rent>14</rent>
+            <rent1house>70</rent1house>
+            <rent2house>200</rent2house>
+            <rent3house>550</rent3house>
+            <rent4house>750</rent4house>
+            <rent1hotel>950</rent1hotel>
+            <price>180</price>
+            <mortgage>90</mortgage>
+            <buildingcost>100</buildingcost>
+        </groupnum>
+        <groupnum num = "3">
+            <title>New York Avenue</title>
+            <rent>16</rent>
+            <rent1house>80</rent1house>
+            <rent2house>220</rent2house>
+            <rent3house>600</rent3house>
+            <rent4house>800</rent4house>
+            <rent1hotel>1000</rent1hotel>
+            <price>200</price>
+            <mortgage>100</mortgage>
+            <buildingcost>100</buildingcost>
+        </groupnum>
+    </RealEstate>
+
+    <RealEstate group = "5" totalgroups = "3">
+        <groupnum num = "1">
+            <title>Kentucky Avenue</title>
+            <rent>18</rent>
+            <rent1house>90</rent1house>
+            <rent2house>250</rent2house>
+            <rent3house>700</rent3house>
+            <rent4house>875</rent4house>
+            <rent1hotel>1050</rent1hotel>
+            <price>220</price>
+            <mortgage>110</mortgage>
+            <buildingcost>150</buildingcost>
+        </groupnum>
+        <groupnum num = "2">
+            <title>Indiana Avenue</title>
+            <rent>18</rent>
+            <rent1house>90</rent1house>
+            <rent2house>250</rent2house>
+            <rent3house>700</rent3house>
+            <rent4house>875</rent4house>
+            <rent1hotel>1050</rent1hotel>
+            <price>220</price>
+            <mortgage>110</mortgage>
+            <buildingcost>150</buildingcost>
+        </groupnum>
+        <groupnum num = "3">
+            <title>Illinois Avenue</title>
+            <rent>20</rent>
+            <rent1house>100</rent1house>
+            <rent2house>300</rent2house>
+            <rent3house>750</rent3house>
+            <rent4house>925</rent4house>
+            <rent1hotel>1100</rent1hotel>
+            <price>240</price>
+            <mortgage>120</mortgage>
+            <buildingcost>150</buildingcost>
+        </groupnum>
+    </RealEstate>
+
+    <RealEstate group = "6" totalgroups = "3">
+        <groupnum num = "1">
+            <title>Atlantic Avenue</title>
+            <rent>22</rent>
+            <rent1house>110</rent1house>
+            <rent2house>330</rent2house>
+            <rent3house>800</rent3house>
+            <rent4house>975</rent4house>
+            <rent1hotel>1150</rent1hotel>
+            <price>260</price>
+            <mortgage>130</mortgage>
+            <buildingcost>150</buildingcost>
+        </groupnum>
+        <groupnum num = "2">
+            <title>Ventnor Avenue</title>
+            <rent>22</rent>
+            <rent1house>110</rent1house>
+            <rent2house>330</rent2house>
+            <rent3house>800</rent3house>
+            <rent4house>975</rent4house>
+            <rent1hotel>1150</rent1hotel>
+            <price>260</price>
+            <mortgage>130</mortgage>
+            <buildingcost>150</buildingcost>
+        </groupnum>
+        <groupnum num = "3">
+            <title>Marvin Gardens</title>
+            <rent>24</rent>
+            <rent1house>120</rent1house>
+            <rent2house>360</rent2house>
+            <rent3house>850</rent3house>
+            <rent4house>1025</rent4house>
+            <rent1hotel>1200</rent1hotel>
+            <price>280</price>
+            <mortgage>140</mortgage>
+            <buildingcost>150</buildingcost>
+        </groupnum>
+    </RealEstate>
+
+    <RealEstate group = "7" totalgroups = "3">
+        <groupnum num = "1">
+            <title>Pacific Avenue</title>
+            <rent>26</rent>
+            <rent1house>130</rent1house>
+            <rent2house>390</rent2house>
+            <rent3house>900</rent3house>
+            <rent4house>1100</rent4house>
+            <rent1hotel>1275</rent1hotel>
+            <price>300</price>
+            <mortgage>150</mortgage>
+            <buildingcost>200</buildingcost>
+        </groupnum>
+        <groupnum num = "2">
+            <title>North Carolina Avenue</title>
+            <rent>26</rent>
+            <rent1house>130</rent1house>
+            <rent2house>390</rent2house>
+            <rent3house>900</rent3house>
+            <rent4house>1100</rent4house>
+            <rent1hotel>1275</rent1hotel>
+            <price>300</price>
+            <mortgage>150</mortgage>
+            <buildingcost>200</buildingcost>
+        </groupnum>
+        <groupnum num = "3">
+            <title>Pennsylvania Gardens</title>
+            <rent>28</rent>
+            <rent1house>150</rent1house>
+            <rent2house>450</rent2house>
+            <rent3house>1000</rent3house>
+            <rent4house>1200</rent4house>
+            <rent1hotel>1400</rent1hotel>
+            <price>320</price>
+            <mortgage>160</mortgage>
+            <buildingcost>200</buildingcost>
+        </groupnum>
+    </RealEstate>
+
+    <RealEstate group = "8" totalgroups = "2">
+        <groupnum num = "1">
+            <title>Park Place</title>
+            <rent>35</rent>
+            <rent1house>175</rent1house>
+            <rent2house>500</rent2house>
+            <rent3house>1100</rent3house>
+            <rent4house>1300</rent4house>
+            <rent1hotel>1500</rent1hotel>
+            <price>350</price>
+            <mortgage>175</mortgage>
+            <buildingcost>200</buildingcost>
+        </groupnum>
+        <groupnum num = "2">
+            <title>Boardwalk</title>
+            <rent>50</rent>
+            <rent1house>200</rent1house>
+            <rent2house>600</rent2house>
+            <rent3house>1400</rent3house>
+            <rent4house>1700</rent4house>
+            <rent1hotel>2000</rent1hotel>
+            <price>400</price>
+            <mortgage>200</mortgage>
+            <buildingcost>200</buildingcost>
+        </groupnum>
+    </RealEstate>
+
+    <Railroad group = "9" totalgroups = "4">
+        <groupnum num= "1">
+            <title>Reading Railroad</title>
+            <price>200</price>
+            <rent1owned>25</rent1owned>
+            <rent2owned>50</rent2owned>
+            <rent3owned>100</rent3owned>
+            <rent4owned>200</rent4owned>
+            <mortgage>100</mortgage>
+        </groupnum>
+        <groupnum num = "2">
+            <title>Pennsylvania Railroad</title>
+            <price>200</price>
+            <rent1owned>25</rent1owned>
+            <rent2owned>50</rent2owned>
+            <rent3owned>100</rent3owned>
+            <rent4owned>200</rent4owned>
+            <mortgage>100</mortgage>
+        </groupnum>
+        <groupnum num = "3">
+            <title>B. &amp; O. Railroad</title>
+            <price>200</price>
+            <rent1owned>25</rent1owned>
+            <rent2owned>50</rent2owned>
+            <rent3owned>100</rent3owned>
+            <rent4owned>200</rent4owned>
+            <mortgage>100</mortgage>
+        </groupnum>
+        <groupnum num = "4">
+            <title>Short Line</title>
+            <price>200</price>
+            <rent1owned>25</rent1owned>
+            <rent2owned>50</rent2owned>
+            <rent3owned>100</rent3owned>
+            <rent4owned>200</rent4owned>
+            <mortgage>100</mortgage>
+        </groupnum>
+    </Railroad>
+
+    <Utilities group = "10" totalgroups = "2">
+        <groupnum num = "1">
+            <title>Electric Company</title>
+            <price>150</price>
+            <mortgage>75</mortgage>
+            <rent1owned>4</rent1owned>
+            <rent2owned>10</rent2owned>
+        </groupnum>
+        <groupnum num = "2">
+            <title>Water Works</title>
+            <price>150</price>
+            <mortgage>75</mortgage>
+            <rent1owned>4</rent1owned>
+            <rent2owned>10</rent2owned>
+        </groupnum>
+    </Utilities>
+
+    <tax group = "11">
+        <groupnum num = "1">
+            <title>Income Tax</title>
+            <option1>10percent</option1>
+            <option2>200</option2>
+        </groupnum>
+        <groupnum num = "2">
+            <title>Luxury Tax</title>
+            <option1>75</option1>
+        </groupnum>
+    </tax>
+
+</class>

@@ -1,0 +1,79 @@
+<?xml version="1.0"?>
+
+<MonopolyLayout>
+    <LayoutType>Junior 20 Tile Layout</LayoutType>
+    <Format>Format: (tilenum,type,text,propertygroup,groupnum)</Format>
+    <tile>
+        0,GoTile,Go,0,200,go.png,Go Ahead
+    </tile>
+    <tile>
+        1,RealEstateTile,Burger Joint,1,1,
+    </tile>
+    <tile>
+        2,RealEstateTile,Pizza House,1,2,
+    </tile>
+    <tile>
+        3,ChancePerkTile,Chance,0,0,chanceTile.png
+    </tile>
+    <tile>
+        4,RealEstateTile,Candy Store,2,1,
+    </tile>
+    <tile>
+        5,RealEstateTile,Ice Cream Parlor,2,2,
+    </tile>
+    <tile>
+        6,JailTile,Jail,0,0,jail.png,This is Jail
+    </tile>
+    <tile>
+        7,RealEstateTile,Museum,3,1,
+    </tile>
+    <tile>
+        8,RealEstateTile,Library,3,2,
+    </tile>
+    <tile>
+        9,ChancePerkTile,Chance,0,0,chanceTile.png
+    </tile>
+    <tile>
+        10,RealEstateTile,Skate Park,4,1,
+    </tile>
+    <tile>
+        11,RealEstateTile,Swimming Pool,4,2,
+    </tile>
+    <tile>
+        12,FreeParkTile,Free Parking,0,0,freeparking.png,Free Parking
+    </tile>
+    <tile>
+        13,RealEstateTile,Video Game Arcade,5,1,
+    </tile>
+    <tile>
+        14,RealEstateTile,Cinema,5,2,
+    </tile>
+    <tile>
+        15,ChancePerkTile,Chance,0,0,chanceTile.png
+    </tile>
+    <tile>
+        16,RealEstateTile,Toy Store,6,1,
+    </tile>
+    <tile>
+        17,RealEstateTile,Pet Store,6,2,
+    </tile>
+    <tile>
+        18,GoToJailTile,Go To Jail,0,0,handcuff.png,Go To Jail
+    </tile>
+    <tile>
+        19,RealEstateTile,Bowling Alley,7,1,
+    </tile>
+    <tile>
+        20,RealEstateTile,Zoo,7,2,
+    </tile>
+    <tile>
+        21,ChancePerkTile,Chance,0,0,chanceTile.png
+    </tile>
+    <tile>
+        22,RealEstateTile,Park Place,8,1,
+    </tile>
+    <tile>
+        23,RealEstateTile,Boardwalk,8,2,
+    </tile>
+</MonopolyLayout>
+

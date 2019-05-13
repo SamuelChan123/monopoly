@@ -1,0 +1,107 @@
+<?xml version = "1.0"?>
+<class>
+    <RealEstate group = "1" totalgroups = "2">
+
+        <groupnum num = "1">
+            <title>Burger Joint</title>
+            <rent>1</rent>
+            <price>1</price>
+        </groupnum>
+        <groupnum num = "2">
+            <title>Pizza House</title>
+            <rent>1</rent>
+            <price>1</price>
+        </groupnum>
+    </RealEstate>
+
+    <RealEstate group = "2" totalgroups = "2">
+        <groupnum num = "1">
+            <title>Candy Store</title>
+            <rent>2</rent>
+            <price>2</price>
+        </groupnum>
+        <groupnum num = "2">
+            <title>Ice Cream Parlor</title>
+            <rent>2</rent>
+            <price>2</price>
+        </groupnum>
+    </RealEstate>
+
+    <RealEstate group = "3" totalgroups = "2">
+        <groupnum num = "1">
+            <title>Museuem</title>
+            <rent>2</rent>
+            <price>2</price>
+        </groupnum>
+        <groupnum num = "2">
+            <title>Library</title>
+            <rent>2</rent>
+            <price>2</price>
+        </groupnum>
+    </RealEstate>
+
+    <RealEstate group = "4" totalgroups = "2">
+        <groupnum num = "1">
+            <title>Skate Park</title>
+            <rent>2</rent>
+            <price>2</price>
+        </groupnum>
+        <groupnum num = "2">
+            <title>Swimming Pool</title>
+            <rent>2</rent>
+            <price>2</price>
+        </groupnum>
+    </RealEstate>
+
+    <RealEstate group = "5" totalgroups = "2">
+        <groupnum num = "1">
+            <title>Video Game Arcade</title>
+            <rent>3</rent>
+            <price>3</price>
+        </groupnum>
+        <groupnum num = "2">
+            <title>Cinema</title>
+            <rent>3</rent>
+            <price>3</price>
+        </groupnum>
+    </RealEstate>
+
+    <RealEstate group = "6" totalgroups = "2">
+        <groupnum num = "1">
+            <title>Toy Store</title>
+            <rent>3</rent>
+            <price>3</price>
+        </groupnum>
+        <groupnum num = "2">
+            <title>Pet Store</title>
+            <rent>3</rent>
+            <price>3</price>
+        </groupnum>
+    </RealEstate>
+
+    <RealEstate group = "7" totalgroups = "2">
+        <groupnum num = "1">
+            <title>Bowling Alley</title>
+            <rent>4</rent>
+            <price>4</price>
+        </groupnum>
+        <groupnum num = "2">
+            <title>Zoo</title>
+            <rent>4</rent>
+            <price>4</price>
+        </groupnum>
+    </RealEstate>
+
+    <RealEstate group = "8" totalgroups = "2">
+        <groupnum num = "1">
+            <title>Park Place</title>
+            <rent>5</rent>
+            <price>5</price>
+        </groupnum>
+        <groupnum num = "2">
+            <title>Boardwalk</title>
+            <rent>5</rent>
+            <price>5</price>
+        </groupnum>
+    </RealEstate>
+</class>
