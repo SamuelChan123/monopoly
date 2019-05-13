@@ -1,4 +1,7 @@
-####Authors
+Monopoly (and its Variations)
+====
+
+#### Authors
 - Sam Chan
 - Jen Li
 - Kiori Tanaka
@@ -7,13 +10,13 @@
 - Amik Mandal
 
 
-####Project Details
+#### Project Details
 - Date Started: 4/1/19 (Start of plan)
 - Date Finished: 4/27/19 (End of sprint 3)
 - Hours Spent: 20+ hours, per person, per week (approximately 3.5 weeks)
 
 
-####Roles
+#### Roles
 - Each person's role in developing the project:
 - Model:
     - Caleb Chiang: Implementing MVC design (writing and refactoring across all Controller classes and ModelEngine classes, hierarchy/interactions), button actions, CPU, PropertyCard, PropertyConfig, EventLog, AudioEffects, CheatDialogs, set up configuration/setup files
@@ -25,22 +28,22 @@
     - Amik Mandal: Worked with view team to implement the front-end design of the game. Largely responsible for the TileView package and the setup for the junior and regular boards (layout of the tiles and placement of the dialogue box). Worked extensively to refactor the TileView package and the board package.
 
 
-####Resources
+#### Resources
 Any books, papers, online, or human resources that you used in developing the project
 - Javadocs (especially for javafx, resourcebundle, reflection)
 - Office hours with TA, instructors for git, overall plan, assistance with certain functionalities
 - Stackoverflow for help with implementing audio, various misc. functions
 - Code.makery.ch for help with JavaFX implementations such as dialog boxes/alerts
 
-####Starting the Project
+#### Starting the Project
 - Files used to start the project (the class(es) containing main): Main class is located under View, which creates instances of MonopolyView, ModelEngine, Controller, which create instances of other classes to run the game.
 
 
-####Testing
+#### Testing
 - Files used to test the project and errors you expect your program to handle without crashing: the /tests directory is located under the /model directory, uses Junit tests for the backend
 
 
-####Data/Resources
+#### Data/Resources
 - Any data or resource files required by the project (including format of non-standard files): All files are located under the /data directory.
 - /data/gamefiles/setupfiles/: These setup files contain all needed base information (relative file paths to other needed classes and configuration files.
  - /data/gamefiles/<gametype>/: These files include game-specific configurationfiles:
@@ -52,7 +55,7 @@ Any books, papers, online, or human resources that you used in developing the pr
 - /data/gamefiles/languagefiles: These files include property files of all the different languages available so that altering labels on buttons is seamless and easy
 
 
-####Program Usage
+#### Program Usage
 - Any information about using the program (i.e., command-line/applet arguments, key inputs, interesting example data files, or easter eggs): Type 1234 to enable cheats, 4321 to disable cheats (only when playing the game). Or, type m to activate move cheat, c to activate money cheat. ?Yeet? to win the game automatically Hotkeys: R to roll dice, S to sell property, B to buy property, E to end turn, F to forfeit (and pay respects)
 - Upon boot, the user is greeted with a welcome screen and the option to change the language to one of the six currently supported languages. After clicking ?Play,? the user is presented with gametype options that currently include the Standard 40-tile game, the Junior 24-tile game, and the Millionaire adaptation. There are also options to change the theme of the UI that will provide immersive videos and images to add variation to the visuals. The user will also select the number of players (both human and CPU) currently up to nine. After clicking ?Next,? the user is now prompted to enter player information that includes player name, token color (using color picker), and type, which can set up CPU players. After clicking ?Start,? the user now has entered the main UI, the game is all set up, and players can now play the game. 
 - Available player choices are simplified by greying out unavailable options, simplifying user interaction.
@@ -66,7 +69,7 @@ Any books, papers, online, or human resources that you used in developing the pr
 	- The money cheat allows users to add or subtract money from the current player, also indicated by no signs or a negative sign.
 
 
-####Decisions/Assumptions
+#### Decisions/Assumptions
 - Any decisions, assumptions, or simplifications you made to handle vague, ambiguous, or conflicting requirements
 - One main decision was to use getters/setters for buttons and user input instead of handlers/listeners. This way, the button input was handled in the View and then sent to Model for interpretation. This was not only conducive to straightforward, readable code, but also eliminated the need for separate handler and listener classes and code. This obviously necessitates more getters/setters, but the tradeoff is in our favor.
 - When reading config files (for tiles, cards, etc.), the use of reflection to create new instances of objects assumes specific naming patterns for subclasses of abstract classes
@@ -75,7 +78,7 @@ Any books, papers, online, or human resources that you used in developing the pr
 - Some classes contain dependencies regarding method order of execution. The most prominent examples are in ModelEngine where certain elements need to be created or set before other methods are executed (setup of files need to be executed in the order of button clicks... etc). In MonopolyView the getters for the game type, number of players, and game theme can only be called after the user sets them in the SetUpScreen.
 
 
-####Bugs/Issues
+#### Bugs/Issues
 - Any known bugs, crashes, or problems with the project's functionality: Pressing buttons fast can lead to null pointer exception or other kinds of exception some times due to asynchronous tasks that don?t initialize certain variables on time. Sometimes misalignment of buttons depending of screen resolution of the user
 -The End screen music sometimes continues playing after the user clicks ?Start Over?
 - Loading the game screen?s video background may be lagging during the initial scene set up.
@@ -83,7 +86,7 @@ Any books, papers, online, or human resources that you used in developing the pr
 - The UI may change slightly across different computers due to the variations in screen resolution.
 
 
-####Extra Features
+#### Extra Features
 - Auctions/Trading functionality
 - Rules change after voting functionality
 - Cheat Keys, Hotkeys
@@ -97,11 +100,3 @@ Any books, papers, online, or human resources that you used in developing the pr
 - Intuitive UI (data-driven) that closely resembles a monopoly board
 - Restart game functionality
 - Use of videos as background for the game screen, and they can be easily changed after set up in settings
-
-
-####Impressions
-- Sam: a very well designed (and interesting!) project that provided us ample time to complete it, with regular demos/checkpoints to ensure all members were well-engaged and contributed effectively to the project.
-- Eugene: was fun making something as interesting and usable yet familiar as a monopoly game, felt that it really challenged the team to be in frequent communication and have a clear picture of the end goal, project that demonstrated the importance of having flexible code as multiple aspects of the game required flexibility in order to implement
-- Caleb: The project was a great way to end the semester?it was comprehensive and challenging in a way that was engaging and satisfying at every checkpoint and every sprint. The design requirements did a great job building upon existing java design concepts and javafx knowledge while also prompting us to explore new package implementations and design concepts. Building a working adaptation of a video-game from scratch was a very enriching experience and upon completion, the simple idea of being able to build a publishable program/app feels one really fat step closer. 
-- Jen: A fun project that recreates a traditional board game as a digital program that supports different variations and visual themes. This project is a great culmination to the class as we apply all the design principles we have learned this semester like MVC, the open-closed principle, and reflection. I learned a lot about working as a teammate within a ?large group? and improved the way I commited and merged with the master branch.  
-- Kiori: A very educational project that further demonstrated how the software development process works in regards to the integration between the front-end and back-end team. Although both sides spent a lot of time working together, it was impressive how separated and hidden we could keep information within model and view. I liked how this was a larger group project because with more people, there was more creativity. I thought that this project was a great way to implement all of the coding practices we learned in class and I definitely learned the importance of proper git practices when working in a large group.
